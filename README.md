@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexxcoolx
 - 👀 I’m interested in robotics, coding and AI
-- 🌱 I’m currently learning Python, C++ and more
-- 💞️ I’m looking to collaborate on web developing project
+- 🌱 I’m currently learning Python, C++, ROS and more
+- 💞️ I’m looking to collaborate on robotics projects
 - 📫 How to reach me 
 Phone: 7654136941
 Email: truong24@purdue.edu
